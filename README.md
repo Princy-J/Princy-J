@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Princy-J
 - 👀 I’m interested in Web Development 
 - 🌱 I’m a 3rd year CSE student
+- I'm currently learning html,css
+- And doing tasks in Mulearn
+ 
 
 
 <!---
